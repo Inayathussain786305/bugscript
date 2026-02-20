@@ -2,7 +2,7 @@
 A lightweight Bash script to automate core bug bounty tasks — subdomains, parameters, endpoints &amp; more.
 # 🐞 Bugscript – Simple Yet Powerful Bug Bounty Automation Script
 
-**Bugscript** is a Bash-based tool designed for bug bounty hunters who want to automate the essentials — from subdomain enumeration to parameter collection — all in a fast and efficient script that runs smoothly on low-spec systems.
+**Bugscript** is a Bash-based tool designed for bug bounty hunters who want to automate the essentials — from subdomain enumeration to parameter collection all in a fast and efficient script that runs smoothly on low-spec systems.
 
 ---
 
@@ -68,10 +68,9 @@ output/
 👤 Author
 
 Inayat Hussain (Inayat Raj Chohan)
-🔍 Cybersecurity Enthusiast | Bash Developer | Bug Bounty Hunter
+🔍 Cybersecurity Engineeer | Bash Developer | Bug Bounty Hunter
 🔗 LinkedIn – Inayat Hussain Chohan
 📘 Facebook: Inayat Raj Chohan
-🐙 GitHub: https://github.com/your-github-username
 📌 License
 
 This tool is released under the MIT License.
